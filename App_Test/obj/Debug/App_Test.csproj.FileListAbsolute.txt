@@ -1,0 +1,7 @@
+C:\Users\simitrio.guzman\source\repos\App_Test\App_Test\bin\Debug\App_Test.exe.config
+C:\Users\simitrio.guzman\source\repos\App_Test\App_Test\bin\Debug\App_Test.exe
+C:\Users\simitrio.guzman\source\repos\App_Test\App_Test\bin\Debug\App_Test.pdb
+C:\Users\simitrio.guzman\source\repos\App_Test\App_Test\obj\Debug\App_Test.csprojAssemblyReference.cache
+C:\Users\simitrio.guzman\source\repos\App_Test\App_Test\obj\Debug\App_Test.csproj.CoreCompileInputs.cache
+C:\Users\simitrio.guzman\source\repos\App_Test\App_Test\obj\Debug\App_Test.exe
+C:\Users\simitrio.guzman\source\repos\App_Test\App_Test\obj\Debug\App_Test.pdb
