@@ -12,3 +12,11 @@ C:\Users\simitrio.guzman\Documents\GitHub\Practice_Algorithms\App_Test\App_Test\
 C:\Users\simitrio.guzman\Documents\GitHub\Practice_Algorithms\App_Test\App_Test\bin\Debug\App_Test.exe.config
 C:\Users\simitrio.guzman\Documents\GitHub\Practice_Algorithms\App_Test\App_Test\bin\Debug\App_Test.exe
 C:\Users\simitrio.guzman\Documents\GitHub\Practice_Algorithms\App_Test\App_Test\bin\Debug\App_Test.pdb
+C:\Users\bethr\OneDrive\Documentos\Visual Studio 2022\Projects\simitriog\Practice_Algorithms\App_Test\obj\Debug\App_Test.csproj.AssemblyReference.cache
+C:\Users\bethr\OneDrive\Documentos\Visual Studio 2022\Projects\simitriog\Practice_Algorithms\App_Test\obj\Debug\App_Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\bethr\OneDrive\Documentos\Visual Studio 2022\Projects\simitriog\Practice_Algorithms\App_Test\obj\Debug\App_Test.csproj.CoreCompileInputs.cache
+C:\Users\bethr\OneDrive\Documentos\Visual Studio 2022\Projects\simitriog\Practice_Algorithms\App_Test\obj\Debug\App_Test.exe
+C:\Users\bethr\OneDrive\Documentos\Visual Studio 2022\Projects\simitriog\Practice_Algorithms\App_Test\obj\Debug\App_Test.pdb
+C:\Users\bethr\OneDrive\Documentos\Visual Studio 2022\Projects\simitriog\Practice_Algorithms\App_Test\bin\Debug\App_Test.exe.config
+C:\Users\bethr\OneDrive\Documentos\Visual Studio 2022\Projects\simitriog\Practice_Algorithms\App_Test\bin\Debug\App_Test.exe
+C:\Users\bethr\OneDrive\Documentos\Visual Studio 2022\Projects\simitriog\Practice_Algorithms\App_Test\bin\Debug\App_Test.pdb
